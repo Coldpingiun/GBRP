@@ -11,6 +11,8 @@ body {
     color: white !important;
 
     padding-top: 6rem;
+
+    overflow: hidden;
 }
 
 header {
